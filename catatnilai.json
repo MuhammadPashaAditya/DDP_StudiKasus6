@@ -1,0 +1,20 @@
+[
+    {
+        "nim": "2609116002",
+        "nama": "Azzam",
+        "mata_kuliah": "filsafat cina",
+        "nilai": 85
+    },
+    {
+        "nim": "2609116001",
+        "nama": "Pasha",
+        "mata_kuliah": "Filsafat barat",
+        "nilai": 90
+    },
+    {
+        "nim": "2609116003",
+        "nama": "Asep",
+        "mata_kuliah": "Filsafat Prabowo",
+        "nilai": 95.0
+    }
+]
